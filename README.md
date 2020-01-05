@@ -2,7 +2,7 @@
 * Windows command-line tool to flatten folders.
 
 # What it does
-* If you have something like below: a folder (`root_directory`) with multiple sub-folders (`a`, `b`, `c`), each of which has files (e.g. `a_1.txt`) and further sub-folders (e.g. `c_2`), you can use it to move all those files to the root directory, hence flattening the base folder. 
+* If you have something like below: a root folder (`root_directory`) with multiple sub-folders (`a`, `b`, `c`), each of which has files (e.g. `a_1.txt`) and further sub-folders (e.g. `c_2`), you can use it to move all those files to the root directory, hence flattening the base folder. 
 ```
 C:\root_directory
         +---a
